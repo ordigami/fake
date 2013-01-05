@@ -4,14 +4,11 @@ EXEMPLES :
 
 
 __ Superflex, Supergas, 1996
-
 " Since 1996 SUPERFLEX has collaborated with European and African engineers to construct a simple biogas unit that can produce sufficient gas for the cooking and lightening needs for a family living in rural areas in the Global South. In August 1997, SUPERFLEX installed and tested the first Supergas biogas system running on organic materials, such as human and animal stools. The experiment was carried out at a small farm in central Tanzania, in cooperation with the African organisation SURUDE (Sustainable Rural Development). The biogas plant produces approx. 3-4 cubic metres of gas per day from the dung from 2-3 cattle – enough for a family of 8-10 members for cooking purposes and to run one gas lamp in the evening. "
 <http://superflex.net/tools/supergas>
 
 
-
 __ Olive Martin et Patrick Bernier en collaboration avec Sylvia Preuss-Laussinote et Sébastien Canevet, Plaidoirie pour une jurisprudence, 2007
-
 " Deux avocats s'arment de l'hospitalité du droit d'auteur pour forcer l'hostilité du droit des étrangers. "
 <http://www.plaidoiriepourunejurisprudence.net/>
 
@@ -21,14 +18,43 @@ A l’appui de leur démonstration, ils font appel à un certain nombre de texte
 <http://www.plaidoiriepourunejurisprudence.net/spip.php?article1>
 
 
-
 __ The Hyperbolic Coral Reef Project, Margaret and Christine Wertheim (co-directrice de l'Institute For Figuring), 2005-2012.
 <http://crochetcoralreef.org/about/index.php>
-
 Le projet "Hyperbolic Crochet Caral Reef" a été initié par Margaret Wertheim et sa soeur jumelle Christine dans leur salon puis à l'Institute For Figuring à Los Angeles qu'elles ont fondé en 2003. Il s'agit à la fois d'une étude mathématique de l'hyperbole à partir de la technique de la maille, une sensibilisation à la disparition de la plus grande barrière de corail sur la côte de Queensland en Australie où sa soeur et elle ont grandi (activisme environnemental), un projet à connotation féministe, une communauté d'amateurs de maille dans plusieurs villes du monde. Dans sa conférence TED elle le résume ainsi : 
-
 « C'est un projet qui s'étend maintenant sur trois continents. Il repose sur les mathématiques, la biologie marine, l'artisanat féminin et l'activisme environnemental. »
 
+
+__ Colectivo Cambalache, El museo de la Calle, Bogota, 1998
+<http://museodelacalle.blogspot.fr/>
+
+
+__ Bernard Brunon, That's painting ! 
+« Sa pratique – qu’il décrit plutôt jovialement comme du « support-surface ouvrier » - se déploiesous forme d’une entreprise de peinture en bâtiment, enregistrée sous le nom de « That’s Painting! », qu’avaitfondée l’artiste à Houston dans les années 80, initialement pour avoir une raison sociale afin de pouvoir gagner sa vie dans la métropole texane. Si l’entreprise s’est montrée économiquement viable – employantaujourd’hui de nombreux ouvriers spécialisés – sa prospérité doit bien peu au monde de l’art. Car bien queBrunon considère – non sans une certaine audace mais en toute simplicité – sa nouvelle activité de peinturecomme artistique à part entière, il n’y a strictement rien d’ arty ni même d’artistique au sens visuel du termedans les travaux de peinture réalisés par l’entreprise. En effet, le credo de la boîte est fonctionnel, sérieux etreflète l’affairement d’une entreprise soucieuse de sa part du marché : « travaux bien faits, échéancesrespectées, prix compétitifs ». L’entreprise recouvre de peinture des surfaces préparées, ce qui relève d’unedéfinition minimale de l’activité picturale. Toutefois, la majeure partie de la clientèle ne se doute pas, et n’aaucun motif de se préoccuper de la perception de Bernard Brunon de son entreprise comme une œuvrecollective d’art conceptuel, dont la devise est la suivante :
+« With less to look at, there’s more to think about » , « moins il y a à voir, plus il y a à penser ». Brunon nous invite en somme à penser la peinture en dehors detout critère de visualité, et nous fournit un exemple emblématique, car bien ancré dans l’histoire du médium,d’un art sans œuvre, sans auteur, et sans spectateur.
+<http://fr.scribd.com/doc/46253019/Stephen-Wright-Vers-un-art-sans-%C5%93uvre-sans-auteur-et-sans-spectateur>
+
+
+__ SYN-, Hypothèses d'amarrages, 2001, 2008
+« Partant du constat qu’un grand nombre de résidus spatiaux sont produits et abandonnés par l’urbanisation contemporaine, qu’un grand nombre d’entre eux ne sont pas voués à être développés dans un avenir proche et qu’une bonne part de ces sites recèlent des qualités spatiales et paysagères propices à une occupation temporaire, le premier volet du projet Hypothèses d’amarrages propose l’implantation d’une vingtaine de tables à pique-nique sur une constellation choisie de sites résiduels de la région métropolitaine de Montréal. Il s’agit là d’exploiter les potentiels d’espaces oubliés, banalisés ou sous-utilisés pour offrir aux citadins de nouvelles prises sur leur environnement. En ce sens, les tables à pique nique constituent ici des sondes qui témoignent de l’espacement et du jeu qu’il est possible de trouver et d’exploiter à même le système spatio-temporel de la ville existante. »
+SYN- est un atelier d'exploration urbaine fondé en 2000 par les artistes
+Jean-Maxime Dufresne, Luc Lévesque et Jean-François Prost
+<http://www.amarrages.com/>
+
+
+__ Diane Borsato, Embroidery Bandit, 2001
+« I hid in dressing rooms and embroidered small flowers in the clothing I selected to try on. I stitched the flowers in very discreet places, such as inside pockets and linings, and returned them to the racks. Clothing circulates broadly, so it is possible that in the life of these marked skirts, pants and shirts – someone may discover the embroidered flowers, and wonder about their origins. It may be disturbing, and feel like a violation, or it may be received as a gift, or a message. Or, the discreet intervention might never be noticed. The intervention was enacted in various clothing shops across Montreal in 2001. » <http://dianeborsato.net/projects/embroidery-bandit/>
+
+« Dans ce projet je me suis cachée dans des cabines d'essayage et j'ai brodé de petites fleurs sur les vêtements que je faisais semblant d'essayer. Je cousais les fleurs à des endroits très discrets, comme dans des poches et des doublures, puis retournais les vêtements en magasin, sur les étagères. Les vê-
+tements circulent de façon tout à fait surprenante [in extraordinary ways], de sorte que, à un moment donné dans l'existence de ces jupes, de ces pantalons et de ces chemises marqués, quelqu'un pourra un jour découvrir une fleur insolite et se demander quelle en est l'origine. Cette intervention invisible peut ne jamais être aperçue, peut troubler, peut être reçue comme un petit cadeau, une invite à la communication, un mystère, ou une épiphanie. » 
+
+__ Ellen Harvey, New York Beautification Project (1999-2001)
+Forty 5 x 7 inch oval landscapes painted in oils without permission on graffiti sites throughout New York City from 1999 –2001. Free map and postcards of the project distributed in 2001.
+<http://www.nybeautification.org/>
+
+
+__ Devora Neumark, Marked Like Some Pages in a Book, 1999
+« L’artiste insère dix mille signets dans des livres là où le texte capte son attention. La distribution se fait de façon aléatoire dans les bibliothèques publiques et personnelles, les librairies, etc. L’intervention a été amorcée en 1997 et s’est poursuivie jusqu’à ce que l’artiste ait dispersé les 10 000 exemplaires du signet. S’ils ne sont pas retirés par un usager, les signets pourraient rester insérés entre les pages des livres pendant plusieurs années. Les signets sont imprimés au recto d’une photographie de mains épluchant des betteraves, et au verso d’un édifice en flamme. L’édifice est celui qu’habitait l’artiste avant qu’il ne soit détruit par un incendie criminel. L’image de la betterave est une citation visuelle d’une performance de l’artiste réalisée en 1996, intitulée : S(us)taining »
+<http://plepuc.org/fr/oeuvre/marked-like-some-pages-in-a-book>
 
 
 CONTRE-EXEMPLES :
