@@ -1,0 +1,16 @@
+Couches d'abstraction v0.2
+
+« […] six langues mondiales se sont imposées à la veille de l'an 2000 : l'anglais ; le dollar ; les marques mondiales ; la musique populaire ; les informations ; l'art abstrait. Leur point commun fonctionnel est la synchronisation du trafic au sein de l'espèce » Peter Sloterdijk, l'heure du crime et le temps de l'oeuvre d'art, Calmann Levy, 2000
+
+
+En terme informatique, on désigne par abstraction une représentation schématique d'un processus. Par exemple, un langage informatique est une abstraction pour traiter du code binaire. Il existe de multiples couches d'abstraction qui s'empilent les unes sur les autres pour s'abstraire du particularisme d'une machine et permettre à un programme, à un réseau ou à un périphérique de fonctionner dans différents contextes.  Par exemple les couches d'abstraction d'un ordinateur sont structurées comme suit :
+
+Logiciels
+Système d'exploitation
+Noyau
+Micrologiciel
+Matériel
+
+En général, la couche supérieure simplifie l'accès à la couche inférieure par le biais d'une syntaxe moins ésotérique. Mais plus il y a de couches d'abstraction, plus il y a d'intermédiaires avec la couche matérielle entraînant un risque de latence dans le traitement du processus. Il y a donc une limite à ne pas franchir pour garantir la synchronisation. On dira d'un processus qu'il est "portable" lorsqu'il est capable de "tourner" sur un environnement en se branchant sur une certaine couche d'abstraction sans se soucier des détails. Tout en dialoguant parfaitement avec la couche matérielle d'un contexte tangible et ses périphériques, le processus reste virtuellement compatible ailleurs. Ce processus peut parfois s'accomplir aux dépends d'un système dans le cas d'un virus se faisant passer pour une mise à jour en se propageant très rapidement. On peut donc imaginer une large palette de stratégies, d'opérations et de styles traversant les couches d'abstraction.
+
+

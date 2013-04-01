@@ -1,0 +1,43 @@
+exposé / téléchargé
+
+porte / fenêtre
+	gate (facture) / windows
+	unique / multiple
+	fermé / ouvert
+	opaque / transparent
+	contrôle / effraction
+	identité / anonymat
+	institutionnel / personnel
+	objet / air & lumière
+	propriété / gratuité
+	autorité / liberté
+accroché / échangé
+vendu / donné
+public / communauté
+légitimation / indécision 
+spécifique / compatible
+importé / immergé
+signature / pseudo
+copyright / copyleft
+individuel / collectif
+concurrentiel / associatif
+sous traité / coopératif
+autonome / connecté
+matériel / immatériel
+marchandise / service
+objets / fonctions
+différé / direct
+fini / ouvert
+localisé / dispersé
+arbre / rhizome
+statique / interactif
+décoratif / jouable
+reproductible / duplicable
+transportable / transformable
+push / peer to peer
+
+déclaratif / interprétatif
+nouveau / furtif
+
+
+ 
