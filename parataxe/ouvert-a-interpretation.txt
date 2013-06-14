@@ -1,0 +1,10 @@
+Ouvert à interprétation v0.1
+
+
+Xerox book est le nom d'une édition publiée par Seth Siegelaub et John W. Wendler à New-York en 1968. Sept artistes Carl Andre, Robert Barry, Douglas Huebler, Joseph Kosuth, Sol LeWitt, Robert Morris et Lawrence Weiner étaient invités à occuper chacun 25 pages d'un même format standard de photocopie. Seth Sieglaub a déclaré plus tard qu'il aurait préféré l'appeler « Photocopy book » pour ne pas donner l'impression que le projet avait quelque chose à voir avec la marque Xerox. 
+
+« Des sociétés comme Xerox avaient pour politique d'offrir machines et logiciels sur les lieux fréquentés par des hackers. Si ces derniers utilisaient (et souvent amélioraient) le logiciel, ils pouvaient par la suite travailler pour ces compagnies. Des années 60 au milieu des années 70, celles-ci rétribuaient même parfois directement à leurs clients des programmes élaborés par des hackers. Face aux bourrages fréquents de l'imprimante, Stallman pensait recourir au même vieux remède — ou hack. Or, en cherchant le logiciel pilote de l'imprimante Xerox, il fit une découverte troublante : rien de tel n'était présent, du moins aucun code intelligible ni pour lui-même ni pour d'autres programmeurs ».
+
+Richard Stallman venait de faire la découverte des logiciels « privateurs ». À partir d'un banal bourrage d'imprimante impossible à réparer faute d'un accès au code source, l'intuition du mouvement du Libre était née.  
+
+Quelques décennies plus tard ont fleuri des expressions comme « art libre », « open-design », « open-source architecture » et autres déclinaisons.  Ouvert (open) et libre (ouvert) ne peuvent pas être attachés à d'autre termes. Ouvert au design et pas au reste ? Art libre mais art quand même ? Ç'a pas d'allure ! (expression québécoise). La force du libre consiste précisément à être libre de tout contexte, ouvert à interprétation. Comment convaincre de rémunérer cela aujourd'hui ? 
